@@ -34,7 +34,7 @@ class ViewController: UIViewController {
             return true
         }
         
-
+        
         //問題4
         var checkNum : Int
         checkNum = number
